@@ -21,10 +21,6 @@ project
 ├──pack  打包配置文件
 | 
 ├── src
-|   ├── components  组件
-|   └── redux
-|   ├── rest  ajax 请求
-|   └── util  工具类
 | 
 ├── static  静态资源
 |   
